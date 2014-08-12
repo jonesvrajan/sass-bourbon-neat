@@ -1,0 +1,27 @@
+/**** Neat Grid ****/
+$max-width: 1020px; /* Max width of outer container*/ 
+
+/**** Breakpoints ****/ 
+$desktop: min-width 1020px;
+$tablet: min-width 768px;
+$tablet-only: min-width 768px max-width 979px;
+$mobile-only: max-width 768px;
+
+
+/**** Colors ****/
+$black:                 #111111;
+$blue:                  #0077c0;
+$gray:                  #999999;
+$green:                 #46a546;
+$red:                   #9d261d;
+$yellow:                #fe9800;
+$orange:                #da6b11;
+$pink:                  #b20a2e;
+$purple:                #7a43b6;
+$white:                 #ffffff;
+
+/**** Fonts ****/
+
+$lato:                  'Lato';
+$oswald:        'Oswald';
+$rufina:        'Rufina';
